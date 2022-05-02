@@ -22,6 +22,3 @@ FROM bitnami/dataplatform-emitter:1.0.1-scratch-r26
 
 # Tags: 1.0.1-scratch-r25
 FROM bitnami/dataplatform-emitter:1.0.1-scratch-r25
-
-# Tags: 1.0.1-scratch-r24
-FROM bitnami/dataplatform-emitter:1.0.1-scratch-r24
